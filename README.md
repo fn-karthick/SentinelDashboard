@@ -182,37 +182,6 @@ User
 * GIS-based Monitoring
 * Automated Report Generation
 
-# 📂 Project Structure
-
-```
-SENTINEL/
-│
-├── Arduino_Code/
-├── AI_Model/
-├── Dataset/
-├── Dashboard/
-│   ├── index.html
-│   ├── style.css
-│   ├── app.js
-│   ├── firebase-config.js
-│   ├── simulator.js
-│
-├── Images/
-├── PPT/
-├── Report/
-├── README.md
-```
-
-# 📷 Project Preview
-
-Add screenshots of:
-
-* Hardware Prototype
-* Web Dashboard
-* Firebase Database
-* AI Pest Detection
-* Gas Monitoring Dashboard
-* 
 # 🎓 Academic Information
 
 **Project Title**
